@@ -14,7 +14,7 @@
   <a href="mailto:sara.baldinelli.10@gmail.com">
     <img src="https://img.shields.io/badge/-sara.baldinelli.10-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-     <img src="https://komarev.com/ghpvc/?username=Sara-Baldinelli&label=Profile%20views&color=0e75b6&style=flat" alt="Sara-Baldinelli" /> 
+    <img src="https://komarev.com/ghpvc/?username=Sara-Baldinelli&label=Profile%20views&color=0e75b6&style=flat" alt="Sara-Baldinelli" /> 
 </p>
 
 <!-- Welcome Section -->
