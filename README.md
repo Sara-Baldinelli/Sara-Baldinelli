@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/sara-baldinelli-750a1b238/" target="_blank">
+  <a href="https://www.linkedin.com/in/sara-baldinelli/" target="_blank">
     <img src="https://img.shields.io/badge/-SaraBaldinelli-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- X (formerly Twitter) Badge -->
