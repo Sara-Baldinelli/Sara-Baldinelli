@@ -23,7 +23,7 @@ Welcome to my profile! I'm a student and aspiring bioinformatician. I am current
 ---
 
 <!-- Info Section -->
-- 🌍  I'm based in **Trento, IT**
+- 🌍  I'm based in **Rotterdam, NL**
 - ✉️  You can contact me at [sara.baldinelli.10@gmail.com](mailto:sara.baldinelli.10@gmail.com)
 
 ---
